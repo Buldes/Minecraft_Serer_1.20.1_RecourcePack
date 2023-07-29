@@ -2,7 +2,7 @@
 Some recourcepacks merged together for minecraft server
 
 ## Link to use:
-https://github.com/Buldes/Minecraft_Serer_1.20.1_RecourcePack/blob/main/merged.zip
+https://github.com/Buldes/Minecraft_Serer_1.20.1_RecourcePack/blob/main/combined.zip
 
 ## Texture-Packs:
 - Stay True ([texture-packs](https://texture-packs.com/resourcepack/stay-true/))
