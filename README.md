@@ -10,3 +10,5 @@ https://github.com/Buldes/Minecraft_Serer_1.20.1_RecourcePack/blob/main/combined
 - Crops 3D ([curseforge](https://www.curseforge.com/minecraft/texture-packs/crops-3d/files/4087715))
 - Fresh Animations ([curseforge](https://www.curseforge.com/minecraft/texture-packs/fresh-animations))
 - Questweaks ([curseforge](https://www.curseforge.com/minecraft/texture-packs/questweaks))
+- Fancy Gui ([curseforge](https://www.curseforge.com/minecraft/texture-packs/fancy-gui-overhaul))
+
